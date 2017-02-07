@@ -1,0 +1,22 @@
+{
+  "name": "ultramatrix",
+  "description": "The Whole new Hacking Experience",
+  "main": "deploy/index.html",
+  "authors": [
+    "Pawan Sharma"
+  ],
+  "license": "MIT",
+  "homepage": "deploy/index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "deploy/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5"
+  }
+}
