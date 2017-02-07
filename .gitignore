@@ -38,3 +38,6 @@ jspm_packages
 
 #bower files
 deploy/plugins
+
+#source files
+src
